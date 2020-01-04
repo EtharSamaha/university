@@ -7,7 +7,7 @@ import java.sql.SQLException;
  * @author Imad
  */
 public class DBHelper {
-
+// wqdefrgh
     public static Connection connectDB() {
         try {
             Class.forName("com.mysql.jdbc.Driver");
